@@ -8,5 +8,8 @@ I am dev b i made the changes in it.
 bhai mere mein hu devb yeh line main mein changed hai 
 >>>>>>> devb
 trrtrhrthhthrhrhrhtfe 	t55t544
+<<<<<<< HEAD
 
 rfrefrehi thereeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+=======
+>>>>>>> 73fa81b8801ab84d8296d646d69961dafce49e8a
